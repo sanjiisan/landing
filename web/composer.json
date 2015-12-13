@@ -1,0 +1,18 @@
+{
+    "name": "hunger-programmers/landing",
+    "description": "Landing Page of Hunger-programmers Compant",
+    "require": {
+        "silex/silex": "^2.0@dev"
+    },
+    "require-dev": {
+        "doctrine/doctrine-migrations-bundle": "^1.1@dev"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Pawel Wojcik",
+            "email": "pawel.wojcik@obido.pl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
